@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="17dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/purple"
+        android:paddingVertical="20dp"
+        android:text="Регулярность"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="37dp"
+        android:paddingHorizontal="20dp">
+
+        <RadioButton
+            android:id="@+id/everyDayRadioBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Каждый день" />
+
+        <RadioButton
+            android:id="@+id/everyWeekBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Каждую неделю" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Каждый месяц" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Каждый год" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/cancelBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:paddingHorizontal="20dp"
+        android:text="Отменить"
+        android:textAlignment="textEnd"
+        android:textColor="@color/purple"
+        android:textSize="20sp" />
+
+
+</LinearLayout>

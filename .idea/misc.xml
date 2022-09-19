@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_person.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable/rectangle_bg.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable/rectangle_bg_corner.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable/rectangle_bg_solid.xml" value="0.189" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.4447403462050599" />
+        <entry key="app/src/main/res/layout/fragment_auth.xml" value="0.3302083333333333" />
+        <entry key="app/src/main/res/layout/fragment_code.xml" value="0.3302083333333333" />
+        <entry key="app/src/main/res/layout/fragment_create_profile.xml" value="0.36684782608695654" />
+        <entry key="app/src/main/res/layout/fragment_create_task_dialog.xml" value="0.4626038781163435" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.3227258212324502" />
+        <entry key="app/src/main/res/layout/fragment_on_board.xml" value="0.3591485507246377" />
+        <entry key="app/src/main/res/layout/fragment_phone_number.xml" value="0.3302083333333333" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.3591485507246377" />
+        <entry key="app/src/main/res/layout/fragment_welcome.xml" value="0.3302083333333333" />
+        <entry key="app/src/main/res/layout/item_board.xml" value="0.2894317626953125" />
+        <entry key="app/src/main/res/layout/item_task.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/regular_dialog.xml" value="0.40198302338088776" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
